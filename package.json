@@ -1,0 +1,21 @@
+{
+  "name": "cursor-bootcamp",
+  "version": "1.0.0",
+  "description": "Provando que sei fazer \"melhor\"",
+  "main": "Program.cs",
+  "scripts": {
+    "start": "dotnet run",
+    "build": "dotnet build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "cursor-bootcamp"
+  },
+  "keywords": [
+    "curso",
+    "bootcamp",
+    "c#"
+  ],
+  "author": "AlesonTalis",
+  "license": "ISC"
+}
